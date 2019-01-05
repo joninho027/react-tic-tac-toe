@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#Advanced features:
+## Advanced features:
 
 - Display the location for each move in the format (col, row) in the move history list.
 - Bold the currently selected item in the move list.
